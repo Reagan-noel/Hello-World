@@ -1,2 +1,2 @@
 # Hello-World
-First repository for getup
+First repository for github
